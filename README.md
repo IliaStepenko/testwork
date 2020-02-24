@@ -33,8 +33,13 @@ python manage.py runserver
 ```
 python manage.py test
 ```
+## Аккаунт администратора
 
+```
 
+username - admin
+password - 111123ss
+```
 
 ## Автор
 
