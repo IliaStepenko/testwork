@@ -38,5 +38,5 @@ python manage.py test
 
 ## Автор
 
-* **Илья Степенко** - [github](https://github.com/IliaStepenko)
+**Илья Степенко** - [github](https://github.com/IliaStepenko)
 
